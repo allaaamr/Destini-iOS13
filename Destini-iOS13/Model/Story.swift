@@ -11,13 +11,9 @@ import Foundation
 struct Story {
     let title : String
     let choice1 : String
+    let choice1Destination: Int
     let choice2: String
+    let choice2Destination: Int
     
 
-//
-//    func init (_ title: title, _ choice1: choice1, _ choice2: choice2){
-//        self.title = title
-//        self.choice1 = choice1
-//        self.choice2 = choice2
-//    }
 }
